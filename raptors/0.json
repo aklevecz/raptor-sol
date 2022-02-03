@@ -1,0 +1,17 @@
+{
+  "name": "Raptor 1",
+  "symbol": "RPTR",
+  "description": "This is a raptor #1/69 with a #035E78 skeleton and a #1D2717 backdrop",
+  "image": "0.png",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "files": [{ "uri": "0.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EBirNSYBRzDboNvEuYXA41m8n2rb6EpECyaPXEpW1u2y",
+        "share": 100
+      }
+    ]
+  }
+}
